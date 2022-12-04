@@ -22,6 +22,19 @@ const scene = new THREE.Scene();
  * Skybox
  */
 
+const cube = new THREE.CubeTextureLoader().setPath( '/skybox/').load([
+  'valley_ft.jpg',
+  'valley_bk.jpg',
+  'valley_up.jpg',
+  'valley_dn.jpg',
+  'valley_rt.jpg',
+  'valley_lf.jpg',
+]);
+
+// 5 = gauche
+
+cube.mapping = THREE.CubeRefractionMapping;
+scene.background = cube;
 
 
 /**
