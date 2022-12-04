@@ -1,0 +1,11 @@
+Model Information:
+* title:	Highway 50 - Near Cold Springs
+* source:	https://sketchfab.com/3d-models/highway-50-near-cold-springs-18ebd36db2e748a9bb0e88ee73006041
+* author:	NDOT (https://sketchfab.com/NDOT)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Highway 50 - Near Cold Springs" (https://sketchfab.com/3d-models/highway-50-near-cold-springs-18ebd36db2e748a9bb0e88ee73006041) by NDOT (https://sketchfab.com/NDOT) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

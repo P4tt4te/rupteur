@@ -1,0 +1,11 @@
+Model Information:
+* title:	AC - Audi R8 Lms 2016
+* source:	https://sketchfab.com/3d-models/ac-audi-r8-lms-2016-68e525eb6e3c4476b09da2c498afb81b
+* author:	DAVID.3D.ART (https://sketchfab.com/mr.rip)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AC - Audi R8 Lms 2016" (https://sketchfab.com/3d-models/ac-audi-r8-lms-2016-68e525eb6e3c4476b09da2c498afb81b) by DAVID.3D.ART (https://sketchfab.com/mr.rip) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
